@@ -442,28 +442,51 @@ Dokumentasi berisi screenshot/screenrecord hasil eksekusi program untuk setiap b
 
 ## C++
 
+- Data Sebelum Ditambahkan
+  
 <img width="718" height="372" alt="Sebelum_Data_Ditambahkan" src="https://github.com/user-attachments/assets/828a500a-2e99-4e87-b8bf-49a6948cf141" />
+
+
+- Setelah Ditambahkan Tahap 1
 
 <img width="806" height="901" alt="Tahap1_Ditambah" src="https://github.com/user-attachments/assets/e3500dd1-0dcb-4645-bc2c-e37223f21514" />
 
+
+- Setelah Ditambahkan Tahap 2
+  
 <img width="643" height="947" alt="Tahap2_Ditambah" src="https://github.com/user-attachments/assets/f122ba49-0400-4d11-8bc5-e7fe4ab858c0" />
 
 
 ## Python
 
+- Data Sebelum Ditambahkan
+
 <img width="760" height="318" alt="Sebelum_Ditambahkan" src="https://github.com/user-attachments/assets/a4694d5a-86b7-4689-a95e-ae66fffbeabe" />
 
+
+- Setelah Ditambahkan Tahap 1
+
 <img width="920" height="927" alt="Tahap1_Ditambahkan" src="https://github.com/user-attachments/assets/8ee8e6d3-afc5-47b3-834a-87202206c626" />
+
+
+- Setelah Ditambahkan Tahap 2
 
 <img width="653" height="940" alt="Tahap2_Ditambahkan" src="https://github.com/user-attachments/assets/d44f78d1-5ccf-42ef-8450-cb6b7195c7ac" />
 
 
 ## Java — Bonus
 
+- Data Sebelum Ditambahkan
+
 <img width="775" height="357" alt="Sebelum_Ditambahkan" src="https://github.com/user-attachments/assets/25d22bc7-65bb-4e4d-96ba-7501c153c6c5" />
+
+
+- Setelah Ditambahkan Tahap 1
 
 <img width="920" height="956" alt="Tahap1_Ditambahkan" src="https://github.com/user-attachments/assets/495c08a9-2182-4040-999a-6859dc197705" />
 
+
+- Setelah Ditambahkan Tahap 2
 <img width="645" height="971" alt="Tahap2_Ditambahkan" src="https://github.com/user-attachments/assets/4e5d793d-e0b1-4e76-8dc5-4edb5c38de9e" />
 
 ---
