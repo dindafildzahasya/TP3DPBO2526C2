@@ -26,7 +26,8 @@ Program menampilkan **kondisi sebelum penambahan data** dan **kondisi setelah pe
 
 Class diagram yang digunakan dalam program:
 
-![Class Diagram](docs/Desain_Diagram.png)
+<img width="1057" height="742" alt="Desain_Diagram" src="https://github.com/user-attachments/assets/78882095-12d7-4ead-9edc-8034bd51e6e5" />
+
 
 ### Struktur hubungan utama
 
@@ -232,7 +233,7 @@ Class utama yang mengelola keseluruhan data coffee shop.
 
 ---
 
-# 🔗 d. Penjelasan Desain Program
+# d. Penjelasan Desain Program
 
 ## 1. Hierarchical Inheritance
 
@@ -435,13 +436,13 @@ Order     : 2
 
 ---
 
-# 🖥️ f. Dokumentasi
+# f. Dokumentasi
 
 Dokumentasi berisi screenshot/screenrecord hasil eksekusi program untuk setiap bahasa.
 
 ## C++
 
-![Dokumentasi C++](CPP/Dokumentasi/screenshot_cpp.png)
+
 
 File program:
 
