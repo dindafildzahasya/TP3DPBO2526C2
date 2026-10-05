@@ -26,7 +26,7 @@ Program menampilkan **kondisi sebelum penambahan data** dan **kondisi setelah pe
 
 Class diagram yang digunakan dalam program:
 
-![Class Diagram](docs/class-diagram.png)
+![Class Diagram](docs/Desain_Diagram.png)
 
 ### Struktur hubungan utama
 
