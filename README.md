@@ -1,7 +1,5 @@
 # Coffee Shop Management System
 
-Project ini merupakan implementasi **Object-Oriented Programming (OOP)** dengan tema **Coffee Shop Management System**. Program dibuat menggunakan **C++ dan Python**, serta dilengkapi implementasi **Java** sebagai bonus.
-
 ## a. Janji
 
 Saya Adinda Fildzah Hasya dengan NIM 2501218 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
